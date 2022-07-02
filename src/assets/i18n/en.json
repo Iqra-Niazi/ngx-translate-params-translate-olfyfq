@@ -1,0 +1,9 @@
+{
+  "HOME": {
+    "TITLE": "Hello Angular with ngx-translate!",
+    "SELECT": "Change language"
+  },
+  "KEY": "Test with the value '{{param1}}' and '{{param2}}'",
+  "VALUE1": "Value 1",
+  "VALUE2": "Value 2"
+}
